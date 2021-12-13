@@ -8,3 +8,5 @@ A school project game based on Fruit Ninja.
 [Sword swing (whoosh) sounds](https://freesound.org/people/sonictechtonic/sounds/243567/)
 
 [Sword hit (slice) sounds](https://freesound.org/people/Eponn/packs/30820/)
+
+[Christmas heavy metal music by Charlie Parra del Riego](https://youtu.be/mlb5go7FRYw)
