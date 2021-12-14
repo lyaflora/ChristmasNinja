@@ -12,3 +12,5 @@ A school project game based on Fruit Ninja.
 [Christmas heavy metal music by Charlie Parra del Riego](https://youtu.be/mlb5go7FRYw)
 
 [Sleigh Bells Sound Effect by SoundEffectsFactory](https://youtu.be/vhnMXSAcopU)
+
+[Christmas Squad font](https://www.dafont.com/christmas-squad.font)
