@@ -26,3 +26,11 @@ Only working flawlessly on phones with Vulkan support.
 [Sleigh Bells Sound Effect by SoundEffectsFactory](https://youtu.be/vhnMXSAcopU)
 
 [Christmas Squad font](https://www.dafont.com/christmas-squad.font)
+
+# Screenshots
+
+![Main Menu](Screenshots/Screenshot0.png)
+![Gameplay](Screenshots/Screenshot1.png)
+![Gameplay](Screenshots/Screenshot3.png)
+![Gameplay](Screenshots/Screenshot4.png)
+![Game Over](Screenshots/Screenshot2.png)
