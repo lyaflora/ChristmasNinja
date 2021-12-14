@@ -10,3 +10,5 @@ A school project game based on Fruit Ninja.
 [Sword hit (slice) sounds](https://freesound.org/people/Eponn/packs/30820/)
 
 [Christmas heavy metal music by Charlie Parra del Riego](https://youtu.be/mlb5go7FRYw)
+
+[Sleigh Bells Sound Effect by SoundEffectsFactory](https://youtu.be/vhnMXSAcopU)
