@@ -27,6 +27,8 @@ Only working flawlessly on phones with Vulkan support.
 
 [Christmas Squad font](https://www.dafont.com/christmas-squad.font)
 
+[Christmas background image](https://ucarecdn.com/634fbbc9-879d-446b-a160-e0fa167ab056/-/stretch/off/-/resize/3000x/-/quality/lighter/)
+
 # Screenshots
 
 ![Main Menu](Screenshots/Screenshot0.png)
