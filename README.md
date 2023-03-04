@@ -3,7 +3,7 @@ A Christmas themed game based on [Fruit Ninja](https://play.google.com/store/app
 
 # Launch on Windows
 
-Playable version downloadable from [here](https://simonyi-my.sharepoint.com/:u:/g/personal/lyaflora_sch_bme_hu/EdK16Z9XIeBJsFaK7m4pU00BnteO6j_q9D4wIlz7_Ccfog?e=I2f8HD) (top left corner). Unzip the file and launch Windows/WindowsNoEditor/ChristmasNinja.exe.
+Playable version downloadable from [here](https://mega.nz/file/ak4AXByQ#TcL76dCmruEp5BP6A3EySXgjfwPPkLl413_EHUEEu8o). Unzip the file and launch Windows/WindowsNoEditor/ChristmasNinja.exe.
 
 Only available on Windows 64 bit.
 
