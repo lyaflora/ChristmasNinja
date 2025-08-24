@@ -9,7 +9,7 @@ Only available on Windows 64 bit.
 
 # Launch on Android
 
-APK downloadable from [here](https://drive.google.com/file/d/1c_9qoTxu-A3XRaii9ICuLgceTVp8PfLO/view?usp=sharing). Launch the APK and install the game. Allow installing from unknown sources if needed.
+APK downloadable from [here](https://mega.nz/file/28J0XLhA#o17y0fXhpgY_maEGCYZ9nWZpxZGqo5ofDPiCVKh8c6o). Launch the APK and install the game. Allow installing from unknown sources if needed.
 
 Only working flawlessly on phones with Vulkan support.
 
