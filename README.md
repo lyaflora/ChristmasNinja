@@ -1,6 +1,8 @@
 # ChristmasNinja
 A Christmas-themed game based on [Fruit Ninja](https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree). Made with Unreal Engine 4.
 
+Gameplay video [here](https://youtu.be/dvawM3p9HU4).
+
 # Launch on Windows
 
 Playable version downloadable from [here](https://mega.nz/file/ak4AXByQ#TcL76dCmruEp5BP6A3EySXgjfwPPkLl413_EHUEEu8o). Unzip the file and launch Windows/WindowsNoEditor/ChristmasNinja.exe.
